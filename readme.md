@@ -11,5 +11,5 @@
 
 `git add .` para subir TODOS los archivos al staging area  
 `git status` comprobar el estado
-`git commit` crear commit (snapshot) del estado actual
+`git commit -m "mensaje"` crear commit (snapshot) del estado actual
 
